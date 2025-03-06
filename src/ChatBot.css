@@ -22,7 +22,7 @@
 
 .user {
   background: #F3CEFF;
-  color: rgb(11, 1, 1);
+  color: rgb(29, 18, 18);
   padding: 8px;
   border-radius: 2px;
   align-self: flex-end;
@@ -32,7 +32,7 @@
 .bot {
   background:#F3CEFF;
   padding: 8px;
-  border-radius: 2px;
+  border-radius: 2.1px;
   align-self: flex-start;
   margin: 5px;
 }
@@ -53,7 +53,7 @@
 }
 
 .chat-input button {
-  background: #efab52;
+  background: #24f087;
   color: white;
   border: none;
   padding: 8px;
