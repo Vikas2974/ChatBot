@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import axios from "axios";
-import "./Chatbot.css";
+import "./ChatBot.css";
 import { FaPaperPlane } from "react-icons/fa";
 
 const ChatBot = () => {
